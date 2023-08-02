@@ -1,2 +1,2 @@
-# GitLab migration
-I am currently in the process of migrating to GitLab.  I'll add more details shortly, please watch this repository to learn more.
+# CodeBerg migration
+I am now using CodeBerg for new repositories: https://codeberg.org/Anonymous941
