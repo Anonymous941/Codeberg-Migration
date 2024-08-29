@@ -1,2 +1,2 @@
-# CodeBerg migration
-I am now using CodeBerg for new repositories: https://codeberg.org/Anonymous941
+# Codeberg migration
+I am now using Codeberg for new repositories: https://codeberg.org/Anonymous941
